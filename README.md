@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap;">
-<div align="center" style="font-size: 1.0em">
+<div align="center" style="font-size: 1.1rem">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightHawkNB&langs_count=8&theme=dark" alt=NightHawkNB />
 </div>
 
