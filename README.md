@@ -14,11 +14,11 @@
 <div align="center">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightHawkNB&langs_count=8&theme=dark" alt=NightHawkNB />
 </div>
-<div>
+
   ![](https://github-readme-stats.vercel.app/api?username=NightHawkNB&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NightHawkNB&theme=dark&hide_border=true)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=NightHawkNB&icon=5&color=1)](https://visitcount.itsvg.in)
-</div>
+
 </div>
 
